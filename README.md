@@ -1,4 +1,4 @@
-This project originates from a competition that was hosted on Kaggle. 
+This project originates from a competition that was hosted on Kaggle by Optiver.
 
 The following are the relevant details for this competition: -
 1) Competition name: -     Optiver-trading at close
@@ -7,10 +7,8 @@ The following are the relevant details for this competition: -
 4) Additional knowledge: - https://www.kaggle.com/code/tomforbes/optiver-trading-at-the-close-introduction
 
 The project repository contains the following artefacts: -
-1) ModelArchitecture.xlsx: - contains a performance comparison of various models.
-2) train.csv: - 	     contains the training data.
-3) usstockpredictor.ipynb: - This is the jupyter notebook that contains the python code that creates and trains the 			     model.
+1) Optiver - Trading at the Close.ipynb: - This is the Jupyter notebook that contains the python code that creates and trains the model.
+2) Optiver - Trading at the Close (Presentation).pdf: - This is the presentation that has been used in the video demo (link below).
 
-The initial version of the model, uploaded here on Github, was developed during the competition. The model
-performance was found to be inadequate. The focus of this project is to make suitable adjustments to the RNN
-model to improve it further.
+In addition, the following link contains a video demo of the project: -
+https://bit.ly/Optiver-TradingAtTheClose
