@@ -4,13 +4,16 @@ The following are the relevant details for this competition: -
 2) Competition duration: -       Sep 20, 2023 - Dec 20, 2023
 3) Competition URL: - 	         https://www.kaggle.com/competitions/optiver-trading-at-the-close
 4) Additional knowledge: -       https://www.kaggle.com/code/tomforbes/optiver-trading-at-the-close-introduction
-5) Project introduction video: - https://bit.ly/Optiver-Introduction
+5) Presentation slides: -        Presentation - Introduction.pdf 
+6) Project introduction video: - https://bit.ly/Optiver-Introduction
 
 Models and performance metrics: -
 1) LSTM model (Hidden size = 4, Input size = 9, Number of layers = 1, Number of parameters = 245)
    - Stock ID represented as 8-bit binary.
    - MAD achieved = 5.444
-   - Relevant Jupyter notebook: - Optiver - Trading_at_the_Close.ipynb
+   - Jupyter notebook: - Optiver - Trading_at_the_Close.ipynb
+   - Presentation slides: - Presentation - Model Dev Approach 1.pdf
+   - Video presentation: - https://bit.ly/Optiver-Approach1
 
 Other important project artefacts: -
 1) Data Wrangler.ipynb: - This reads the 'train.csv' file as input and generates the 'train_wrangled.csv' file as output.
